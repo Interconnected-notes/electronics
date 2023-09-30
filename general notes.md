@@ -1,0 +1,1 @@
+axial = not smd
