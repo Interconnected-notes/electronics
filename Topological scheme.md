@@ -1,1 +1,1 @@
-Устройство интегральной микросхемы показыват
+Shows how [[integrated circuit]] works

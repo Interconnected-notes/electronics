@@ -1,1 +1,2 @@
-Combines [[Block scheme]] and some electronic components. Rarely used
+- Combines block scheme and some electronic components. 
+- Rarely used

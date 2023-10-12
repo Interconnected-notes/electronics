@@ -1,1 +1,1 @@
-axial = not smd
+- axial = not smd

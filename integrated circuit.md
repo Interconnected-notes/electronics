@@ -1,8 +1,7 @@
 ---
 aliases:
-  - shreck
+  - IC
 tags: 
 sources:
 ---
-
-test PCB
+IC for short

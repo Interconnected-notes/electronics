@@ -1,0 +1,1 @@
+Serial wire JTAG debug port
