@@ -4,117 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b22032f31be01c44",
+        "id": "0fc901a5d832034d",
         "type": "tabs",
         "children": [
           {
-            "id": "fcfbd64349e87edf",
+            "id": "c66c77ecedcb40ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "triggers/JK trigger.md",
+                "file": "photorelay.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "be50b8040e780365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STM32/RTC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09257070e90b3528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USART.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19967c2c52319aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78eac473d839a68a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fd5b76fa0a0a801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d07eff171463e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GPIO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abedff6aa09d993b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a3a15b4bde6745d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "STM32/STM32-STM32F1-STM32F103-STM32F103C8T6-pinout.png"
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/STM32-STM32F1-STM32F103-STM32F103C8T6-pinout.png",
+                "file": "photorelay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/STM32-STM32F1-STM32F103-STM32F103C8T6-pinout.png",
+                "file": "photorelay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/STM32-STM32F1-STM32F103-STM32F103C8T6-pinout.png"
+                "file": "photorelay.md"
               }
             }
           },
@@ -251,15 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a3a15b4bde6745d",
+  "active": "c66c77ecedcb40ad",
   "lastOpenFiles": [
-    "SPI.md",
+    "Relay.md",
+    "photorelay.md",
+    "RCC.md",
+    "ADC.md",
+    "AAPCS.md",
     "STM32/STM32-STM32F1-STM32F103-STM32F103C8T6-pinout.png",
+    "SPI.md",
     "STM32/b626c787-75a5-4cc2-9b01-5de4c0f8fd47.tmp",
     "STM32/STM32-STM32F1-STM32F103-STM32F103C8T6-pinout",
     "STM32/Unconfirmed 800084.crdownload",
     "SWJ-DP.md",
-    "ADC.md",
     "GPIO.md",
     "USB.md",
     "CAN.md",
@@ -282,9 +191,6 @@
     "general notes.md",
     "integrated circuit.md",
     "metric schemes.md",
-    "PCB scheme.md",
-    "Mnemonic scheme.md",
-    "shrecks.md",
     "templates"
   ]
 }
