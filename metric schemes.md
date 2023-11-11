@@ -1,2 +1,2 @@
 [[метрическая]]
-[[традиционная]] - more preferable
+[[Traditional]] - more preferable

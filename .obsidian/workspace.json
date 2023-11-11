@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "electronic schemes types.md",
+                "file": "metric schemes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d78865aabc3ea352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCB schema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ee2620de54a6edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inverter circuit protection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "electronic schemes types.md",
+                "file": "Inverter circuit protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "electronic schemes types.md",
+                "file": "Inverter circuit protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "electronic schemes types.md"
+                "file": "Inverter circuit protection.md"
               }
             }
           },
@@ -156,22 +181,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcfbd64349e87edf",
+  "active": "0ee2620de54a6edc",
   "lastOpenFiles": [
+    "overvoltage protection.md",
+    "Inverter circuit protection.md",
+    "wire resistance.md",
+    "voltage drop.md",
+    "inductive load.md",
+    "PCB schema.md",
+    "Схема электрическая принципиальная.md",
+    "Electronic schemes types.md",
+    "Cabel scheme.md",
+    "Block scheme.md",
+    "templates/base.md",
+    "shrecks.md",
+    "Traditional.md",
+    "metric schemes.md",
+    "HID.md",
     "Functional scheme.md",
     "general notes.md",
-    "metric schemes.md",
     "Mnemonic scheme.md",
-    "shrecks.md",
-    "Block scheme.md",
-    "electronic schemes types.md",
-    "Cabel scheme.md",
-    "templates/base.md",
     "Transistors.md",
     "templates",
-    "традиционная.md",
-    "Topological scheme.md",
-    "Схема печатной платы.md",
-    "Схема электрическая принципиальная.md"
+    "Topological scheme.md"
   ]
 }

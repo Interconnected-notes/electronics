@@ -1,7 +1,7 @@
 1. [[Block scheme]]
 2. [[Functional scheme]]
 3. [[Схема электрическая принципиальная]]
-4. [[Схема печатной платы]]
+4. [[PCB schema]]
 ----
 1. [[Topological scheme]]
 2. [[Mnemonic scheme]]

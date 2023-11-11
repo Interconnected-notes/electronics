@@ -1,1 +1,1 @@
-test овая схема печатной платы
+test PCB schema
