@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63d6cbfa762b06e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overcurrent protection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "photorelay.md",
+                "file": "Overcurrent protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "photorelay.md",
+                "file": "Overcurrent protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photorelay.md"
+                "file": "Overcurrent protection.md"
               }
             }
           },
@@ -156,19 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c66c77ecedcb40ad",
+  "active": "63d6cbfa762b06e0",
   "lastOpenFiles": [
-    "wire resistance.md",
-    "voltage drop.md",
-    "overvoltage protection.md",
-    "inductive load.md",
-    "Traditional.md",
-    "PCB schema.md",
-    "Inverter circuit protection.md",
-    "HID.md",
-    "Block scheme.md",
-    "Overcurrent protection.md",
     "Overcurrent.md",
+    "Overcurrent protection.md",
     "resistor dip labeling.md",
     "Pasted image 20231121212037.png",
     "NE555.md",
@@ -195,4 +199,3 @@
     "STM32",
     "templates"
   ]
-}
