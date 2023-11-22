@@ -5,4 +5,3 @@
 ----
 1. [[Topological scheme]]
 2. Mnemonic scheme
-3. [[Cabel scheme]]
