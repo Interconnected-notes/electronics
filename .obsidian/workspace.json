@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b22032f31be01c44",
+        "id": "6877d2aeb5ed476f",
         "type": "tabs",
         "children": [
           {
-            "id": "fcfbd64349e87edf",
+            "id": "0ec595711fd9f9b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metric schemes.md",
+                "file": "RCC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d78865aabc3ea352",
+            "id": "d753469a10b48150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB schema.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ee2620de54a6edc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inverter circuit protection.md",
+                "file": "CCR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inverter circuit protection.md",
+                "file": "CCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inverter circuit protection.md",
+                "file": "CCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inverter circuit protection.md"
+                "file": "CCR.md"
               }
             }
           },
@@ -181,28 +169,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ee2620de54a6edc",
+  "active": "d753469a10b48150",
   "lastOpenFiles": [
-    "overvoltage protection.md",
+    "Relay.md",
+    "CCR.md",
+    "RCC.md",
     "Inverter circuit protection.md",
+    "triggers/T trigger.md",
+    "triggers/RS trigger.md",
+    "triggers/JK trigger.md",
+    "triggers/D trigger.md",
+    "triggers",
+    "register.md",
+    "photorelay.md",
+    "integrated circuit.md",
+    "electronic schemes types.md",
+    "USB.md",
+    "USART.md",
+    "SWJ-DP.md",
+    "STM32/STM32-STM32F1-STM32F103-STM32F103C8T6-pinout.png",
+    "STM32/NVIC.md",
+    "STM32/RTC.md",
+    "STM32",
+    "SPI.md",
+    "PCB scheme.md",
+    "GPIO.md",
+    "Electrical schematic diagram.md",
+    "CAN.md",
+    "ADC.md",
+    "AAPCS.md",
+    "overvoltage protection.md",
     "wire resistance.md",
-    "voltage drop.md",
-    "inductive load.md",
-    "PCB schema.md",
-    "Схема электрическая принципиальная.md",
-    "Electronic schemes types.md",
-    "Cabel scheme.md",
-    "Block scheme.md",
-    "templates/base.md",
-    "shrecks.md",
-    "Traditional.md",
-    "metric schemes.md",
-    "HID.md",
-    "Functional scheme.md",
-    "general notes.md",
-    "Mnemonic scheme.md",
-    "Transistors.md",
-    "templates",
-    "Topological scheme.md"
+    "templates"
   ]
 }
