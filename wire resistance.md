@@ -3,7 +3,7 @@ aliases:
 tags: 
 sources:
 ---
-wire resistance = diameter + length 
+Wire resistance = diameter + length 
 
 # See also
 American wire gauge

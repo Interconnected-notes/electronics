@@ -4,5 +4,5 @@ aliases:
 tags: 
 sources:
 ---
-
-test PCB
+> [!abstract] Main point
+> Test PCB

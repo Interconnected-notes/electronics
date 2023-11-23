@@ -1,1 +1,1 @@
-Shows how [[integrated circuit]] works
+Shows how [[Integrated circuit]] works

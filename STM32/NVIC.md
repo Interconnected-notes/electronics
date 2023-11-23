@@ -4,5 +4,6 @@ aliases:
 tags: 
 sources:
 ---
+> [!abstract] Main point
 > Nested vectored interrupt controller
 
