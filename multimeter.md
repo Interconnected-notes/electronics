@@ -1,12 +1,13 @@
 ---
 aliases: 
-tags:
-  - electronic-element
+tags: 
 sources:
 ---
 > [!abstract] Main point
 > ...
 
-# Types
-- Bipolar
-- Polar
+# Ohm meter
+
+# Volt meter
+
+# Ampere meter

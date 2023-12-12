@@ -11,7 +11,14 @@ sources: https://www.youtube.com/watch?v=xdlkBcJWoqw&ab_channel=HiDev%21%E2%80%9
 ---
 Passive two-terminal electrical component that stores energy in a magnetic field when electric current flows through it.
 
-Helps to fight against electrical noise and short voltage ovecurrent
+Helps to fight against electrical noise and short voltage ovecurrent.
+
+
 
 Индуктор из-за своих свойств не проводит переменный ток.
 Не умеет хранить и сразу отдает накопленный магнитный заряд тоже в виде тока, поэтому может сам являться источником тока какое-то время
+
+# Types
+
+
+![[Pasted image 20231201225612.png]]

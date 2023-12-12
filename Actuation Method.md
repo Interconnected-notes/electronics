@@ -1,7 +1,6 @@
 ---
 aliases: 
-tags:
-  - todo
+tags: 
 sources:
 ---
 > [!abstract] Main point

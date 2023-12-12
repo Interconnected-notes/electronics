@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b75263d1b75c155f",
+        "id": "df89df7433bcf602",
         "type": "tabs",
         "children": [
           {
-            "id": "e59e6792318a7bd6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20231121035954.png"
-              }
-            }
-          },
-          {
-            "id": "8e5ac38bb160cd57",
+            "id": "2d0f446da03d3878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bare theory/Индуктивность.md",
+                "file": "electronic elements/74HC595.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bare theory/Индуктивность.md",
+                "file": "electronic elements/74HC595.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bare theory/Индуктивность.md",
+                "file": "electronic elements/74HC595.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,11 +135,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bare theory/Индуктивность.md"
+                "file": "electronic elements/74HC595.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,37 +158,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e5ac38bb160cd57",
+  "active": "2d0f446da03d3878",
   "lastOpenFiles": [
-    "bare theory/Voltage drop.md",
-    "bare theory/Static electricity.md",
+    "Momentary vs. Maintained buttons.md",
+    "electronic elements/LED.md",
+    "electronic elements/74HC595.md",
+    "8900318f-2a20-48aa-8828-0c434d98f513.tmp",
+    "Pasted image 20231212194938.png",
+    "PISO.md",
+    "SIPO.md",
+    "via.md",
+    "Pasted image 20231212193245.png",
+    "imperial sizes.md",
+    "Common abbreviations.md",
+    "THT.md",
+    "SMT.md",
+    "ROHS.md",
+    "SMT_Nomenclature.pdf",
+    "Unconfirmed 296086.crdownload",
+    "Electronic schemes types.md",
+    "Metric-Clearance-Holes.pdf",
+    "Pasted image 20231210202324.png",
+    "PCB DRILL SIZE FOR STANDARD SCREWS.md",
+    "PCB.md",
+    "IPC-2221.md",
+    "Pasted image 20231211212901.png",
+    "Actuation Method.md",
+    "Metric systems.md",
+    "Unconfirmed 383862.crdownload",
+    "Excalidraw/Drawing 2023-12-10 21.28.44.excalidraw.md",
+    "electrical load.md",
     "bare theory/SI.md",
-    "bare theory/Inductive load.md",
-    "bare theory/electromotive force.md",
-    "bare theory/DC current.md",
-    "bare theory/Current direction.md",
-    "bare theory/AC current.md",
-    "elements/Conductor.md",
-    "elements/Inductor.md",
-    "elements/MOSFET.md",
-    "elements/Стабилитрон.md",
-    "elements/Переменный резистор.md",
-    "elements/NE555.md",
-    "elements/Transducer.md",
-    "Wire resistance.md",
-    "USB.md",
-    "USART.md",
-    "Topological scheme.md",
-    "Register.md",
-    "Resistor color coding.md",
-    "Overcurrent protection.md",
-    "Overvoltage protection.md",
-    "Inverter circuit protection.md",
-    "Integrated circuit.md",
-    "HID.md",
-    "assets/Pasted image 20231121212037.png",
-    "assets/Pasted image 20231121035954.png",
-    "assets",
-    "STM32/STM32-STM32F1-STM32F103-STM32F103C8T6-pinout.png"
+    "excalidraw libraries/circuit-components.excalidrawlib",
+    "excalidraw libraries/electrical-engineering.excalidrawlib",
+    "excalidraw libraries",
+    "multimeter.md",
+    "power.md",
+    "bare theory/Current.md",
+    "bare theory/Voltage.md",
+    "electronic elements/Bipolar Junction Transistor.md",
+    "electronic elements/Transistor.md",
+    "Pasted image 20231210202328.png",
+    "Pasted image 20231210202324 1.png",
+    "assets/Pasted image 20231124214551.png",
+    "assets/Pasted Image 20231210195342_311.png",
+    "assets/Pasted image 20231210193935.png",
+    "assets/Pasted image 20231210193825.png",
+    "communication interfaces",
+    "logic elements"
   ]
 }
