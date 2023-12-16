@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "electronic elements/74HC595.md",
+                "file": "electronic elements/7-segment Display.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d521b397b8fdd0d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PIC microcontrollers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93b70eb5a5ddafe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "button types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "electronic elements/74HC595.md",
+                "file": "button types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "electronic elements/74HC595.md",
+                "file": "button types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "electronic elements/74HC595.md"
+                "file": "button types.md"
               }
             }
           }
@@ -158,11 +183,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d0f446da03d3878",
+  "active": "93b70eb5a5ddafe2",
   "lastOpenFiles": [
+    "Pasted image 20231216033619.png",
+    "button types.md",
+    "electronic elements/7-segment Display.md",
+    "Prefixes.md",
+    "Pasted image 20231216014451.png",
+    "bare theory/SI Unit prefixes.png",
+    "Metric systems.md",
+    "QFP.md",
+    "VQFN.md",
+    "PIC microcontrollers.md",
+    "Pasted image 20231215235401.png",
+    "electronic elements/74HC595.md",
     "Momentary vs. Maintained buttons.md",
     "electronic elements/LED.md",
-    "electronic elements/74HC595.md",
     "8900318f-2a20-48aa-8828-0c434d98f513.tmp",
     "Pasted image 20231212194938.png",
     "PISO.md",
@@ -184,26 +220,15 @@
     "IPC-2221.md",
     "Pasted image 20231211212901.png",
     "Actuation Method.md",
-    "Metric systems.md",
     "Unconfirmed 383862.crdownload",
     "Excalidraw/Drawing 2023-12-10 21.28.44.excalidraw.md",
     "electrical load.md",
-    "bare theory/SI.md",
     "excalidraw libraries/circuit-components.excalidrawlib",
     "excalidraw libraries/electrical-engineering.excalidrawlib",
     "excalidraw libraries",
-    "multimeter.md",
-    "power.md",
-    "bare theory/Current.md",
-    "bare theory/Voltage.md",
-    "electronic elements/Bipolar Junction Transistor.md",
-    "electronic elements/Transistor.md",
     "Pasted image 20231210202328.png",
     "Pasted image 20231210202324 1.png",
     "assets/Pasted image 20231124214551.png",
-    "assets/Pasted Image 20231210195342_311.png",
-    "assets/Pasted image 20231210193935.png",
-    "assets/Pasted image 20231210193825.png",
     "communication interfaces",
     "logic elements"
   ]
